@@ -18,10 +18,10 @@ const Home = () => {
             <Swiper
                 spaceBetween={30}
                 centeredSlides={true}
-                    autoplay={{
-                        delay: 2500,
-                        disableOnInteraction: false,
-                    }}
+                        // autoplay={{
+                        //     delay: 2500,
+                        //     disableOnInteraction: false,
+                        // }}
                 pagination={{
                     clickable: true,
                 }}
@@ -29,7 +29,7 @@ const Home = () => {
                 className="mySwiper pd-4"
             >
                 {/* spider man */}
-                <SwiperSlide id="swiperSlide" className="group w-[100%] lg:h-[100vh] md:h-[80vh] sm:h-[65vh] sm:mt-10 xs:h-[36vh] x:h-[30vh] x:mt-16 lg:py-8 lg:px-6">
+                <SwiperSlide id="swiperSlide" className="group w-[100%] lg:h-[100vh] md:h-[80vh] sm:h-[65vh] sm:mt-10 xs:h-[36vh] x:h-[35vh] x:mt-16 lg:py-8 lg:px-6">
                     <div className="lg:w-[80%] w-[100%] h-[100vh] flex flex-col pt-[70px] px-8 py-6 x:px-4 x:pt-16">
                         <div className=" lg:w-[260px] sm:w-[200px] sm:flex md:flex lg:flex s:flex xl:flex 2xl:flex justify-between lg:mt-[150px] sm:mt-[55px] md:mt-[90px] md:mb-5 sm:mb-4 xs:w-0 x:w-0 hidden">
                             <h1 className="bg-white lg:text-[18px] md:text-[14px] sm:text-[12px] xs:
@@ -50,7 +50,7 @@ const Home = () => {
                     </div>
                 </SwiperSlide>
                 {/* toniy stark */}
-                <SwiperSlide id="swiperSlide" className="group w-[100%] lg:h-[100vh] md:h-[80vh] sm:h-[65vh] sm:mt-10 xs:h-[36vh] x:h-[30vh] x:mt-16"> {/* start kino icons*/}
+                <SwiperSlide id="swiperSlide" className="group w-[100%] lg:h-[100vh] md:h-[80vh] sm:h-[65vh] sm:mt-10 xs:h-[36vh] x:h-[35vh] x:mt-16 lg:py-8 lg:px-6"> {/* start kino icons*/}
                 <div className="lg:w-[80%] w-[100%] h-[100vh] flex flex-col pt-[70px] px-8 py-6 x:px-4 x:pt-16">
                         <div className=" lg:w-[260px] sm:w-[200px] sm:flex md:flex lg:flex s:flex xl:flex 2xl:flex justify-between lg:mt-[150px] sm:mt-[55px] md:mt-[90px] md:mb-5 sm:mb-4 xs:w-0 x:w-0 hidden">
                             <h1 className="bg-white lg:text-[18px] md:text-[14px] sm:text-[12px] xs:
@@ -71,7 +71,7 @@ const Home = () => {
                     </div>
                 </SwiperSlide>
                 {/* wednsday */}
-                <SwiperSlide id="swiperSlide" className="group w-[100%] lg:h-[100vh] md:h-[80vh] sm:h-[65vh] sm:mt-10 xs:h-[36vh] x:h-[30vh] x:mt-16">
+                <SwiperSlide id="swiperSlide" className="group w-[100%] lg:h-[100vh] md:h-[80vh] sm:h-[65vh] sm:mt-10 xs:h-[36vh] x:h-[35vh] x:mt-16 lg:py-8 lg:px-6">
                 <div className="lg:w-[80%] w-[100%] h-[100vh] flex flex-col pt-[70px] px-8 py-6 x:px-4 x:pt-16">
                         <div className=" lg:w-[260px] sm:w-[200px] sm:flex md:flex lg:flex s:flex xl:flex 2xl:flex justify-between lg:mt-[150px] sm:mt-[55px] md:mt-[90px] md:mb-5 sm:mb-4 xs:w-0 x:w-0 hidden">
                             <h1 className="bg-white lg:text-[18px] md:text-[14px] sm:text-[12px] xs:
