@@ -33,9 +33,9 @@ const Home = () => {
                     <div className="lg:w-[80%] w-[100%] h-[100vh] flex flex-col pt-[70px] px-8 py-6">
                         <div className=" lg:w-[245px] sm:w-[200px] xs:w-[190px] flex justify-between lg:mt-[150px] sm:mt-[55px] md:mt-[90px] md:mb-5 sm:mb-4 xs:mt-[40px] x:w-[175px]  xs:mb-2 x:mb-1">
                             <h1 className="bg-white lg:text-[18px] md:text-[14px] sm:text-[12px] xs:
-                            text-[12px] x:text-[10px] py-2 px-2 rounded-lg">animarsion</h1>
+                            text-[12px] x:text-[10px] x:px-4 py-2 px-2 rounded-lg">animarsion</h1>
                             <h1 className="bg-white lg:text-[18px] md:text-[14px] sm:text-[12px] xs:
-                            text-[12px] x:text-[10px] py-2 px-2 rounded-lg">Advanture</h1>
+                            text-[12px] x:text-[10px] x:px-4 py-2 px-2 rounded-lg">Advanture</h1>
                         </div>
                         <div className="flex">
                             <h1 className="lg:text-6xl md:text-5xl sm:text-4xl xs:text-2xl x:text-[20px] text-5xl font-bold  text-white mb-4 xs:mb-2">Spider-Man: <br /> Across the Spider-Verse</h1>
