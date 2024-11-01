@@ -1,0 +1,66 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,400;0,700;1,400;1,700&family=Rye&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* cursor canvas */
+#canvas {
+  width: 100%;
+  height: 100%;
+}
+
+#hom-kino::-webkit-scrollbar {
+  width: 0;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul a.active {
+  color: #22C55E;
+}
+
+body::-webkit-scrollbar {
+  width: 0;
+}
+  
+/* google fon */
+/* marvel-font */
+.marvel-font {
+  font-family: "Marvel", sans-serif;
+}
+
+.Wednesday {
+  font-family: "Rye", serif;
+}
+
+.mySwiper #swiperSlide:nth-child(1) {
+  background: url(./material/img/spider-man2.jpg);
+  background-size: cover;
+}
+
+.mySwiper #swiperSlide:nth-child(2) {
+  background: url(./material/img/temirodamsliderbg.jpg);
+  background-size: cover;
+}
+
+.mySwiper #swiperSlide:nth-child(3) {
+  background: url(./material/img/Wednesday-sliderbg.jpg);
+  background-size: cover;
+}
+
+#drawer {
+  background: #0f172aa2;
+  backdrop-filter: blur(20px);
+}
