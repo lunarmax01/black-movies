@@ -42,9 +42,9 @@ const Home = () => {
                         </div>
                         <p className="lg:text-[19px] md:text-[14px] md:pr-12 sm:text-[13px] xs:text-[10px] x:text-[6px]  text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, maxime molestiae. Quia tempora distinctio reprehenderit eos corrupti omnis deleniti voluptas? Quasi ratione deleniti in magni sapiente quam perspiciatis enim corrupti odit blanditiis hic, quae dignissimos aliquid tempore iste similique.</p>
                         <div className=" flex mt-6 xs:mt-3 x:mt-2">
-                            <button className="lg:py-4 lg:px-6 xs:py-2 flex items-center bg-slate-800 text-white hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mb-[10px]"><MdOutlineFileDownload className="mr-2 text-xl lg:text-[30px]" />
+                            <button className="lg:py-4 lg:px-6 xs:py-2 x:py-2 flex items-center bg-slate-800 text-white hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mt-2 "><MdOutlineFileDownload className="mr-2 text-xl x:text-[16px] lg:text-[30px]" />
                                 Yuklab olish</button>
-                            <button className="lg:py-4 lg:px-6 xs:py-2 flex items-center bg-slate-700 ml-4 text-white  hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mb-[10px]"><SiGoogledisplayandvideo360 className="mr-2 text-xl lg:text-[28px]" />
+                            <button className="lg:py-4 lg:px-6 xs:py-2 x:py-2 flex items-center bg-slate-700 ml-4 text-white  hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mt-2 "><SiGoogledisplayandvideo360 className="mr-2 text-xl x:text-[14px] lg:text-[28px]" />
                                 Kino korish</button>
                         </div>
                     </div>
@@ -63,9 +63,9 @@ const Home = () => {
                         </div>
                         <p className="lg:text-[19px] md:text-[14px] md:pr-12 sm:text-[13px] xs:text-[10px] x:text-[6px]  text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, maxime molestiae. Quia tempora distinctio reprehenderit eos corrupti omnis deleniti voluptas? Quasi ratione deleniti in magni sapiente quam perspiciatis enim corrupti odit blanditiis hic, quae dignissimos aliquid tempore iste similique. Molestiae, dignissimos unde ratione ab pariatur.</p>
                         <div className=" flex mt-6 xs:mt-3 x:mt-2">
-                            <button className="lg:py-4 lg:px-6 xs:py-2 flex items-center bg-slate-800 text-white hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mb-[10px]"><MdOutlineFileDownload className="mr-2 text-xl lg:text-[30px]" />
+                            <button className="lg:py-4 lg:px-6 xs:py-2 x:py-2 flex items-center bg-slate-800 text-white hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mt-2 "><MdOutlineFileDownload className="mr-2 text-xl x:text-[16px] lg:text-[30px]" />
                                 Yuklab olish</button>
-                            <button className="lg:py-4 lg:px-6 xs:py-2 flex items-center bg-slate-700 ml-4 text-white  hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mb-[10px]"><SiGoogledisplayandvideo360 className="mr-2 text-xl lg:text-[28px]" />
+                            <button className="lg:py-4 lg:px-6 xs:py-2 x:py-2 flex items-center bg-slate-700 ml-4 text-white  hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mt-2 "><SiGoogledisplayandvideo360 className="mr-2 text-xl x:text-[14px] lg:text-[28px]" />
                                 Kino korish</button>
                         </div>
                     </div>
@@ -84,9 +84,9 @@ const Home = () => {
                         </div>
                         <p className="lg:text-[19px] md:text-[14px] md:pr-12 sm:text-[13px] xs:text-[10px] x:text-[6px]  text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, maxime molestiae. Quia tempora distinctio reprehenderit eos corrupti omnis deleniti voluptas? Quasi ratione deleniti in magni sapiente quam perspiciatis enim corrupti odit blanditiis hic, quae dignissimos aliquid tempore iste similique. Molestiae, dignissimos unde ratione ab pariatur.</p>
                         <div className=" flex mt-6 xs:mt-3 x:mt-2">
-                            <button className="lg:py-4 lg:px-6 xs:py-2 flex items-center bg-slate-800 text-white hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mb-[10px]"><MdOutlineFileDownload className="mr-2 text-xl lg:text-[30px]" />
+                            <button className="lg:py-4 lg:px-6 xs:py-2 x:py-2 flex items-center bg-slate-800 text-white hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mt-2 "><MdOutlineFileDownload className="mr-2 text-xl x:text-[16px] lg:text-[30px]" />
                                 Yuklab olish</button>
-                            <button className="lg:py-4 lg:px-6 xs:py-2 flex items-center bg-slate-700 ml-4 text-white  hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mb-[10px]"><SiGoogledisplayandvideo360 className="mr-2 text-xl lg:text-[28px]" />
+                            <button className="lg:py-4 lg:px-6 xs:py-2 x:py-2 flex items-center bg-slate-700 ml-4 text-white  hover:scale-[105%] rounded-md transition-all lg:text-[18px] x:text-[12px] x:px-3 x:mt-2 "><SiGoogledisplayandvideo360 className="mr-2 text-xl x:text-[14px] lg:text-[28px]" />
                                 Kino korish</button>
                         </div>
                     </div>
