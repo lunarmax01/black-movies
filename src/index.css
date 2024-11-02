@@ -71,3 +71,13 @@ body::-webkit-scrollbar {
   background: #0f172aa2;
   backdrop-filter: blur(20px);
 }
+/* list bg */
+#listbg{
+  background: url(material/img/kino_bg.jpg);
+  background-attachment: fixed  ;
+}
+/* list img */
+#list{
+  background: url(material/img/wednsday-sliderbg.jpg);
+  background-size: cover;
+}
