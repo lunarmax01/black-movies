@@ -30,6 +30,13 @@
 ul a.active {
   color: #22C55E;
 }
+#drewera.active{
+  color: #22C55E;
+  
+}
+#drewera.active:hover{
+  color: #66ff00;
+}
 
 body::-webkit-scrollbar {
   width: 0;
