@@ -37,7 +37,7 @@ const Home = () => {
                             <h1 className="bg-white lg:text-[18px] md:text-[14px] sm:text-[12px] xs:
                             text-[12px] x:text-10px] x:px-2 x:py-[6px] lg:py-2 lg:px-4 rounded-lg">Advanture</h1>
                         </div>
-                        <div className="flex x:mt-5">
+                        <div className="flex x:mt-1">
                             <h1 className="lg:text-6xl md:text-5xl sm:text-4xl xs:text-2xl x:text-[15px] text-5xl font-bold  text-white mb-4 xs:mb-2 x:mb-2">Spider-Man: <br /> Across the Spider-Verse</h1>
                         </div>
                         <p className="lg:text-[19px] md:text-[14px] md:pr-12 sm:text-[13px] xs:text-[10px] x:text-[6px]  text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, maxime molestiae. Quia tempora distinctio reprehenderit eos corrupti omnis deleniti voluptas? Quasi ratione deleniti in magni sapiente quam perspiciatis enim corrupti odit blanditiis hic, quae dignissimos aliquid tempore iste similique.</p>
@@ -58,7 +58,7 @@ const Home = () => {
                             <h1 className="bg-white lg:text-[18px] md:text-[14px] sm:text-[12px] xs:
                             text-[12px] x:text-10px] x:px-2 x:py-[6px] lg:py-2 lg:px-4 rounded-lg">Advanture</h1>
                         </div>
-                        <div className="flex x:mt-5">
+                        <div className="flex x:mt-1">
                             <h1 className="lg:text-6xl md:text-5xl sm:text-4xl xs:text-2xl x:text-[15px] text-5xl font-bold  text-white mb-4 xs:mb-2 x:mb-2">Toniy-stark: <br /></h1>
                         </div>
                         <p className="lg:text-[19px] md:text-[14px] md:pr-12 sm:text-[13px] xs:text-[10px] x:text-[6px]  text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, maxime molestiae. Quia tempora distinctio reprehenderit eos corrupti omnis deleniti voluptas? Quasi ratione deleniti in magni sapiente quam perspiciatis enim corrupti odit blanditiis hic, quae dignissimos aliquid tempore iste similique.</p>
@@ -79,7 +79,7 @@ const Home = () => {
                             <h1 className="bg-white lg:text-[18px] md:text-[14px] sm:text-[12px] xs:
                             text-[12px] x:text-10px] x:px-2 x:py-[6px] lg:py-2 lg:px-4 rounded-lg">Advanture</h1>
                         </div>
-                        <div className="flex x:mt-5">
+                        <div className="flex x:mt-1">
                             <h1 className="lg:text-6xl md:text-5xl sm:text-4xl xs:text-2xl x:text-[15px] text-5xl font-bold  text-white mb-4 xs:mb-2 x:mb-2">wednesday: <br /></h1>
                         </div>
                         <p className="lg:text-[19px] md:text-[14px] md:pr-12 sm:text-[13px] xs:text-[10px] x:text-[6px]  text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, maxime molestiae. Quia tempora distinctio reprehenderit eos corrupti omnis deleniti voluptas? Quasi ratione deleniti in magni sapiente quam perspiciatis enim corrupti odit blanditiis hic, quae dignissimos aliquid tempore iste similique.</p>
