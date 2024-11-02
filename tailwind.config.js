@@ -20,7 +20,7 @@ export default {
       'lg': '1024px',
       // => @media (min-width: 1024px) { ... }
 
-      's': '1131',
+      's': '1131px',
 
       'xl': '1280px',
       // => @media (min-width: 1280px) { ... }
