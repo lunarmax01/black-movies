@@ -77,7 +77,44 @@ body::-webkit-scrollbar {
   background-attachment: fixed  ;
 }
 /* list img */
-#list{
+#listwednesday{
   background: url(material/img/wednsday-sliderbg.jpg);
   background-size: cover;
 }
+#listvenom{
+  background: url(material/img/venom-reklama.webp);
+  background-size: cover;
+}
+#listironman{
+  background: url(material/img/iron-man.jpg);
+  background-size: cover;
+}
+#listpantera{
+  background: url(material/img/pantera.jpeg);
+  background-size: cover;
+}
+#listshangchi{
+  background: url(material/img/shang-chi.webp);
+  background-size: cover;
+}
+#listBeetlejuice{
+  background: url(material/img/Beetlejuice.webp);
+  background-size: cover;
+}
+#listavatar{
+  background: url(material/img/Avatar.jpg);
+  background-size: cover;
+}
+#listhellboy{
+  background: url(material/img/hellboy.jpg);
+  background-size: cover;
+}
+#listiztopar{
+  background: url(material/img/iztopar.jpg);
+  background-size: cover;
+}
+#listmerlin{
+  background: url(material/img/merlin.jpg);
+  background-size: cover;
+}
+
