@@ -4,7 +4,7 @@ import { SiGoogledatastudio } from "react-icons/si";
 
 function Movies_list() {
     return (<>
-        <div id="listbg" className=" w-full h-auto lg:mt-[369px] md:relative sm:relative xs:relative x:relative md:bottom-[329px] sm:bottom-[219px] xs:bottom-[415px] x:bottom-[431px]">
+        <div id="listbg" className=" w-full h-auto lg:mt-[432px] md:relative sm:relative xs:relative x:relative s:relative s:bottom -80 md:bottom-[392px] sm:bottom-[263px] xs:bottom-[498px] x:bottom-[515px]">
             <div className="w-full border-white/0 border-[5px]"></div>
             <marquee id="mrq" className='w-full h-40vh flex items-center' behavior="scroll" scrolldelay="40" direction="">
                 <div id="listhom" className=" w-full h-auto flex">
