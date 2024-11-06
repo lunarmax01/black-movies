@@ -9,7 +9,6 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 // import required modules
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-import Movies_list from "./movies-list";
 
 const Home = () => {
 
@@ -92,7 +91,7 @@ const Home = () => {
                     </div>
                 </SwiperSlide>
             </Swiper>
-            <Movies_list />
+            
         </div>
     </>)
 }
