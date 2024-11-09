@@ -58,6 +58,10 @@ const Navbar = () => {
             <NavLink id='drewera' to='Anime' className='w-full h-10 flex bg-[#47556973] transition-all hover:bg-slate-600 hover:text-[#50ffa2] pl-3'><h1 className='flex items-center text-xl font-bold'><MdVolunteerActivism className='text-[30px] mr-2'/> Anime</h1></NavLink>
             <div className='w-full border-[1px] border-[#ffffff7c]'></div>
             
+            <div className=' w-full flex justify-around relative top-[350px] hover:*:bg-[#47d57d]'>
+              <button className='w-[135px] h-[40px] rounded-md bg-[#21C15D] text-white text-xl '>sign up</button>
+              <button className='w-[135px] h-[40px] rounded-md bg-[#21C15D] text-white text-xl '>sign in</button>
+            </div>
           </div>
         </div>
       </div>
