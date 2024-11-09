@@ -18,8 +18,8 @@ function Footer() {
     return (<>
 
         <footer className="bg-[#1D1F1E] text-white pt-6 px-4 h-auto">
-            <div className="w-full h-full  flex items-start justify-between">
-                <div className=" w-full h-auto flex-col xl:pr-10 xl:pl-4 md:pr-8 sm:pr-6 xl:h-0">
+            <div className="w-full h-full 2xl:h-auto 2xl:py-10  flex items-start justify-between">
+                <div className=" w-full h-auto flex-col xl:pr-10 xl:pl-4 md:pr-8 sm:pr-6 xl:h-0 lg:ml-2">
                     <h3 onClick={toggleDrawerState} className="x:text-[18px] xs:text-2xl font-bold mb-1 flex border-b-[2px] cursor-pointer">Biz haqimizda</h3>
                     <div className={`${drawerState ? 'block' : 'hidden '} mt-2`}>
                         <h1 className=" text-[#737474] hover:text-white/70 mt-1">kontaktlar</h1>
@@ -27,8 +27,8 @@ function Footer() {
                         <h1 className=" text-[#737474] hover:text-white/70 mt-1">Obunalar</h1>
                         <h1 className=" text-[#737474] hover:text-white/70 mt-1">Hamkorlar</h1>
                     </div>
-                    <h3 onClick={toggleDrawerState2} className="x:text-[18px] xs:text-2xl font-bold mb-1 flex border-b-[2px] cursor-pointer mt-4">Biz haqimizda</h3>
-                    <div className={`${drawerState2 ? 'block' : 'hidden '} mb-5 mt-4`}>
+                    <h3 onClick={toggleDrawerState2} className="x:text-[18px] xs:text-2xl font-bold mb-1 flex border-b-[2px] cursor-pointer mt-4">Katalog</h3>
+                    <div className={`${drawerState2 ? 'block' : 'hidden '} mb-5 mt-4    `}>
                     <h1 className=" text-[#737474] hover:text-white/70 mt-1">TV</h1>
                         <h1 className=" text-[#737474] hover:text-white/70 mt-1">Kino</h1>
                         <h1 className=" text-[#737474] hover:text-white/70 mt-1">seriallar</h1>
@@ -43,7 +43,7 @@ function Footer() {
                 
 
                 {/* platformalarimiz va dasturlarimiz*/}
-                <div className=" w-auto">
+                <div className=" w-auto ">
                     {/* datsurlari */}
                     <div className="xl:w-[700px] xl:h-32 xl:flex xl:justify-center lg:justify-center 2xl:justify-between lg:w-[500px] lg:flex md:w-[500px] md:flex sm:hidden sm:w-0 sm:h-0 xs:hidden xs:w-0 xs:h-0 x:hidden x:w-0 x:h-0">
                         <div className="w-[65%] md:w-[90%] xs:w-[100%] h-28 hover:*:bg-[#08180e] grid gap-y-4 gap-x-4 grid-cols-3  py-6 mt-10 md:mt-0">
@@ -56,7 +56,7 @@ function Footer() {
                         </div>
                         {/* platforma */}
                         <div className="2xl:w-[250px] 2xl:ml-2 2xl:flex 2xl:flex-col 2xl:items-center md:hidden md:w-0 md:h-0 xs:hidden xs:w-0 xs:h-0">
-                            <h1 className=" text-2xl font-bold">Ijtimoiy tarmoqlar</h1>
+                            <h1 className=" text-2xl font-bold 2xl:flex 2xl:text-xl 2xl:mt-10">Ijtimoiy tarmoqlar</h1>
                             <br />
                             <div className="w-24 flex items-center flex-col mt-5">
                                 <div className="w-full flex justify-between mb-4 hover:*:bg-[#08180e]">
@@ -82,7 +82,7 @@ function Footer() {
                 {/* version */}
             </div>
             {/*  */}
-            <div className="2xl:w-[700px] xl:w-80 xl:h-36 lg:h-[150px] flex xl:justify-center lg:justify-center 2xl:justify-between 2xl:hidden 2xl:h-0 lg:flex-col md:flex-col sm:flex-col xs:flex-col x:flex-col ">
+            <div className="2xl:w-[700px] xl:w-80 xl:h-36 lg:h-[150px] flex xl:justify-center lg:justify-center 2xl:justify-between 2xl:hidden 2xl:h-0 lg:flex-col md:flex-col sm:flex-col xs:flex-col x:flex-col s:ml-2">
                 <div className="xs:w-[70%] lg:w-[50%] sm:w-[73%] h-28 hover:*:bg-[#08180e] md:gap-y-4 md:gap-x-4 md:grid-cols-3 sm:grid sm:gap-y-4 sm:gap-x-4 sm:grid-cols-3 xs:flex-col  py-6 mt-10 xl:w-0 xl:hidden s:hidden s:w-0 s:h-0 md:mt-5 sm:mt-0 xs:mt-0  md:hidden md:w-0 md:h-0 sm:ml-0 xs:ml-0 x:ml-0 x:mt-0">
                     <h1 className=" items-center transition-all bg-[#292A29] text-md py-4 px-2 w-[150px] xs:w-[130px] xs:text-[15px] flex rounded-xl xs:mt-2"><FaApple className="mr-1 text-2xl xs:text-[20px] " />App Store</h1>
 
@@ -92,7 +92,7 @@ function Footer() {
 
                 </div>
                 {/* platforma */}
-                <div className="2xl:h-0 2xl:hidden xl:w-[250px] xl:flex-col lg:pl-2 xs:mt-32 lg:mt-0 md:mt-0 sm:mt-0 x:mt-28 s:pl-0 xl:pl-4 ">
+                <div className="2xl:h-0 2xl:hidden xl:w-[250px] lg:pl-2 xs:mt-32 lg:mt-5 sm:mt-0 x:mt-28 s:pl-0 xl:pl-4 s:mt-8 xl:mt-0 md:mt-5">
                     <h1 className=" text-2xl font-bold">Ijtimoiy tarmoqlar</h1>
                     <br />
                     <div className="w-28 flex xl:justify-center mt-1 xl:relative xl:ml-[89px] lg:relative lg:right-[89px]">
